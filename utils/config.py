@@ -1,0 +1,2 @@
+WMATA_API_KEY = "8d15743351bf4948b868b6239a88e4e3"
+WMATA_BASE_URL = "https://api.wmata.com"
